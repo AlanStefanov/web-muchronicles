@@ -1,0 +1,92 @@
+{
+    "castle_data": {
+        "MAP_SVR_GROUP": "0",
+        "SIEGE_START_DATE": "2030-06-05 00:00:00.000",
+        "SIEGE_END_DATE": "2040-07-05 00:00:00.000",
+        "SIEGE_GUILDLIST_SETTED": "0",
+        "SIEGE_ENDED": "0",
+        "CASTLE_OCCUPY": "1",
+        "OWNER_GUILD": "sead",
+        "MONEY": "453000.0000",
+        "TAX_RATE_CHAOS": "3",
+        "TAX_RATE_STORE": "0",
+        "TAX_HUNT_ZONE": "300000"
+    },
+    "castle_owner_alliance": [
+        {
+            "G_Name": "sead",
+            "G_Mark": "0000000000000000000004000000044000404040000040000400004004000000",
+            "G_Score": "0",
+            "G_Master": "SoulPower",
+            "G_Count": null,
+            "G_Notice": null,
+            "Number": "9",
+            "G_Type": "0",
+            "G_Rival": "10",
+            "G_Union": "0",
+            "MemberCount": "0",
+            "member_count": "1"
+        }
+    ],
+    "registered_guilds": [
+        {
+            "member_count": "0"
+        },
+        {
+            "G_Name": "STAFF",
+            "G_Mark": "3333333433333344333334433333443333344333334433333443333344333333",
+            "G_Score": "1",
+            "G_Master": "Stefanov",
+            "G_Count": null,
+            "G_Notice": "",
+            "Number": "10",
+            "G_Type": "0",
+            "G_Rival": "9",
+            "G_Union": "0",
+            "MemberCount": "0",
+            "member_count": "1"
+        },
+        {
+            "G_Name": "sead",
+            "G_Mark": "0000000000000000000004000000044000404040000040000400004004000000",
+            "G_Score": "0",
+            "G_Master": "SoulPower",
+            "G_Count": null,
+            "G_Notice": null,
+            "Number": "9",
+            "G_Type": "0",
+            "G_Rival": "10",
+            "G_Union": "0",
+            "MemberCount": "0",
+            "member_count": "1"
+        },
+        {
+            "G_Name": "SINALOA",
+            "G_Mark": "6666666666333777436667744335637446356634463666C444CCCCC4BBBCCCCC",
+            "G_Score": "0",
+            "G_Master": "estilo",
+            "G_Count": null,
+            "G_Notice": null,
+            "Number": "11",
+            "G_Type": "0",
+            "G_Rival": "0",
+            "G_Union": "0",
+            "MemberCount": "0",
+            "member_count": "1"
+        },
+        {
+            "G_Name": "Anubis",
+            "G_Mark": "CCC77CCCCC7777CCCC7CC7CCC77CC77CC777777C7777777777CCCC7777CCCC77",
+            "G_Score": "0",
+            "G_Master": "Odissey",
+            "G_Count": null,
+            "G_Notice": null,
+            "Number": "12",
+            "G_Type": "0",
+            "G_Rival": "0",
+            "G_Union": "0",
+            "MemberCount": "0",
+            "member_count": "1"
+        }
+    ]
+}

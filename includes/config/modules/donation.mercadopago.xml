@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<settings>
+	<active/>
+	<mercadopago_enable_sandbox>0</mercadopago_enable_sandbox>
+	<access_token>APP_USR-7828803921787111-061113-377ab983bbbbf008907f031f985bd077-456202084</access_token>
+	<mercadopago_title>Donaciones para  WCoinC</mercadopago_title>
+	<mercadopago_description>Donaciones para Mu-Chornicles</mercadopago_description>
+	<mercadopago_currency>Pesos Argentinos</mercadopago_currency>
+	<dominio_url>https://muchronicles.ddns.net</dominio_url>
+	<mercadopago_return_url>https://muchronicles.ddns.net/e/myaccount</mercadopago_return_url>
+	<mercadopago_api_return_url>https://muchronicles.ddns.net/api/mercadopago/resource/success.php</mercadopago_api_return_url>
+	<credit_config>1</credit_config>
+<credit_selected>WCoinC</credit_selected>
+    <pack_1_price>1350</pack_1_price>
+    <pack_1_credits>1500</pack_1_credits>
+	<pack_2_price>2700</pack_2_price>
+    <pack_2_credits>2800</pack_2_credits>
+	<pack_3_price>4000</pack_3_price>
+    <pack_3_credits>5000</pack_3_credits>
+	<pack_4_price>6750</pack_4_price>
+    <pack_4_credits>8000</pack_4_credits>
+	<pack_5_price>12000</pack_5_price>
+    <pack_5_credits>16000</pack_5_credits>
+	<pack_6_price>22000</pack_6_price>
+    <pack_6_credits>34000</pack_6_credits>
+	<pack_7_price>0</pack_7_price>
+    <pack_7_credits>1</pack_7_credits>
+	<pack_8_price>0</pack_8_price>
+    <pack_8_credits>6500</pack_8_credits>
+	<pack_9_price>0</pack_9_price>
+    <pack_9_credits>7500</pack_9_credits>
+	<pack_10_price>0</pack_10_price>
+    <pack_10_credits>9500</pack_10_credits></settings>
