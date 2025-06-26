@@ -12,7 +12,7 @@
     "website_meta_description": "Mu-Chronicles es un servidor privado de Mu Online Season 6 Episodio 3. Experiencia equilibrada, eventos activos, comunidad amigable y sin Pay to Win. \u00a1\u00danete a la aventura definitiva en el mundo de MU!",
     "website_meta_keywords": "Mu Online, Mu Online Season 6, servidor Mu Online, Mu-Chronicles, Mu privado, MMORPG gratis, servidor Mu S6E3, Mu Online Latino, Mu Online Argentina, eventos Mu Online, Mu Season 6 Episodio 3",
     "website_forum_link": "https:\/\/muchronicles.ddns.net",
-    "SQL_DB_HOST": "localhost",
+    "SQL_DB_HOST": "muchronicles.ddns.net",
     "SQL_DB_NAME": "MuOnlineS6",
     "SQL_DB_2_NAME": "MuOnlineS6",
     "SQL_DB_USER": "sa",
